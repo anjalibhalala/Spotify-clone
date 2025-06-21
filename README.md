@@ -9,3 +9,6 @@ A simple Spotify homepage clone built using HTML and CSS.
 
 ## Demo
 https://github.com/anjalibhalala/Spotify-clone.git
+ 
+## Author 
+Anjali Bhalala
