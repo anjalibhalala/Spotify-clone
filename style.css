@@ -129,7 +129,7 @@
 footer{
     border-top: 0.5px solid white;
 }
-.foot-panel-1{
+.foot-panel1{
     background-color: #121212;
     height: 300px;
     display: flex;
@@ -147,29 +147,7 @@ ul p{
     color: #ffffff;
     font-weight: 700;
 }
-.footicon-1{
-   height: 40px;
-    width: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    border-radius: 20px;
-    color: #ffffff;
-    background-color: #1f1f1f;
-    margin-top: 35px;
-}
-.footicon-2{
-   height: 40px;
-    width: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    border-radius: 20px;
-    color: #ffffff;
-    background-color: #1f1f1f;
-    margin-top: 35px;
-}
-.footicon-3{
+.footicon{
    height: 40px;
     width: 40px;
     display: flex;
